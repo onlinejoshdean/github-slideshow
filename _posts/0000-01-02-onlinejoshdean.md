@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I took the *road* less travelled by! > It is a great day for a quotation
 Use the left arrow to go back!
